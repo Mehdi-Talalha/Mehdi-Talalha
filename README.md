@@ -46,7 +46,7 @@
 
 <div align="center">
 
-  ![Animated Pixel Art](https://github.com/zene-dev/zene-dev/blob/main/assets/down.gif)
+  ![Animated Pixel Art](https://github.com/zene-dev/zene-dev/blob/main/assets/chill-image.gif)
 
 </div>
 
