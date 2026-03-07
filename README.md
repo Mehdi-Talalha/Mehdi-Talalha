@@ -3,14 +3,14 @@
   <a href="#">
     <img 
       width="100%" 
-      src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Hi!+i'm+Mehdi+from+Morocco&fontSize=40&fontColor=fff&animation=twinkling"
+      src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Hi!+i'm+Mehdi+Talalha+from+Morocco&fontSize=40&fontColor=fff&animation=twinkling"
     />
   </a>
   <br>
 </div>
 
 <!-- About Section -->
-<img align="right" alt="Coding" width="350" src="https://github.com/zene-dev/zene-dev/blob/main/assets/coding.jpg">
+<img align="right" alt="Coding" width="350" src="https://github.com/zene-codes/zene-codes/blob/main/assets/coding.jpg">
 
 ### 💫 About Me
 - 👨‍💻 **Passionate Developer** crafting innovative solutions
@@ -21,7 +21,7 @@
 
 ### 🧲 Connect With Me
 <div align="left">
-  <a href="mailto:mehditalalha29@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?logo=Gmail&logoColor=white&style=for-the-badge"></a>
+  <a href="mailto:m.talalha@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?logo=Gmail&logoColor=white&style=for-the-badge"></a>
   <a href="https://x.com/ska_zene" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?logo=twitter&logoColor=white&style=for-the-badge"></a>
   <a href="https://instagram.com/@ska_zene" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?logo=instagram&logoColor=white&style=for-the-badge"></a>
   <a href="https://mehdi1-t.github.io/personal-web-site/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000.svg?logo=netlify&logoColor=white&style=for-the-badge"></a>
@@ -30,7 +30,7 @@
 <!-- Activity Graph -->
 <div align="center">
 
-  ![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zene-dev&bg_color=0d1117&color=00ff88&line=ff6b6b&point=fff7e0&area=true&hide_border=true&radius=10)
+  ![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zene-codes&bg_color=0d1117&color=00ff88&line=ff6b6b&point=fff7e0&area=true&hide_border=true&radius=10)
 </div>
 
 
@@ -46,7 +46,7 @@
 
 <div align="center">
 
-  ![Animated Pixel Art](https://github.com/zene-dev/zene-dev/blob/main/assets/chill-image.gif)
+  ![Animated Pixel Art](https://github.com/zene-codes/zene-codes/blob/main/assets/chill-image.gif)
 
 </div>
 
