@@ -24,7 +24,7 @@
   <a href="mailto:m.talalha@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?logo=Gmail&logoColor=white&style=for-the-badge"></a>
   <a href="https://x.com/ska_zene" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?logo=twitter&logoColor=white&style=for-the-badge"></a>
   <a href="https://instagram.com/@ska_zene" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?logo=instagram&logoColor=white&style=for-the-badge"></a>
-  <a href="https://mehdi1-t.github.io/personal-web-site/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000.svg?logo=netlify&logoColor=white&style=for-the-badge"></a>
+  <!-- <a href="https://.github.io/personal-web-site/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000.svg?logo=netlify&logoColor=white&style=for-the-badge"></a> -->
 </div>
 
 <!-- Activity Graph -->
