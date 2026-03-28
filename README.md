@@ -42,6 +42,11 @@
   <img src="https://skillicons.dev/icons?i=linux,bash,ubuntu,angular,net,arch,kali,postman,notion,slack" />
 </div>
 
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/its-19818942118/its-19818942118/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/its-19818942118/its-19818942118/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/its-19818942118/its-19818942118/output/pacman-contribution-graph.svg">
+</picture>
 
 <div align="center">
 
@@ -50,9 +55,15 @@
 </div>
 
 <!-- Footer Wave -->
+
 <p align="center">
-  <img 
+  <!-- <img 
     src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"
     width="100%" 
-  />
+  /> -->
+
+  
+  <img src="https://raw.githubusercontent.com/D3vil0per/D3vil0per/main/.images/footer.svg" width="100%">
+
+
 </p>
