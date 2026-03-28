@@ -3,7 +3,7 @@
   <a href="#">
     <img 
       width="100%" 
-      src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Hi!+i'm+Mehdi+Talalha+from+Morocco&fontSize=40&fontColor=fff&animation=twinkling"
+      src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Hi!+i'm+Mehdi&fontSize=40&fontColor=fff&animation=twinkling"
     />
   </a>
   <br>
@@ -42,11 +42,6 @@
   <img src="https://skillicons.dev/icons?i=linux,bash,ubuntu,angular,net,arch,kali,postman,notion,slack" />
 </div>
 
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/its-19818942118/its-19818942118/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/its-19818942118/its-19818942118/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/its-19818942118/its-19818942118/output/pacman-contribution-graph.svg">
-</picture>
 
 <div align="center">
 
@@ -65,5 +60,11 @@
   
   <img src="https://raw.githubusercontent.com/D3vil0per/D3vil0per/main/.images/footer.svg" width="100%">
 
+  
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/its-19818942118/its-19818942118/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/its-19818942118/its-19818942118/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/its-19818942118/its-19818942118/output/pacman-contribution-graph.svg">
+</picture>
 
 </p>
