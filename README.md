@@ -52,11 +52,6 @@
 <!-- Footer Wave -->
 
 <p align="center">
-  <!-- <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"
-    width="100%" 
-  /> -->
-
   
   <img src="https://raw.githubusercontent.com/D3vil0per/D3vil0per/main/.images/footer.svg" width="100%">
 
