@@ -1,5 +1,6 @@
 <!-- Header Wave -->
 <div align="center">
+<!-- header wave -->
   <a href="#">
     <img 
       width="100%" 
@@ -10,8 +11,10 @@
 </div>
 
 <!-- About Section -->
+<!-- image section -->
 <img align="right" alt="Coding" width="350" src="https://github.com/zene-codes/zene-codes/blob/main/assets/coding.jpg">
 
+<!-- description -->
 ### 💫 About Me
 - 👨‍💻 **Passionate Developer** crafting innovative solutions
 - 🌱 **Always Learning** - exploring new technologies and frameworks
@@ -21,6 +24,7 @@
 
 ### 🧲 Connect With Me
 <div align="left">
+<!-- contacts -->
   <a href="mailto:m.talalha@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?logo=Gmail&logoColor=white&style=for-the-badge"></a>
   <a href="https://x.com/ska_zene" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?logo=twitter&logoColor=white&style=for-the-badge"></a>
   <a href="https://instagram.com/@ska_zene" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?logo=instagram&logoColor=white&style=for-the-badge"></a>
@@ -44,7 +48,7 @@
 
 
 <div align="center">
-
+  <!-- animate image -->
   ![Animated Pixel Art](https://github.com/zene-codes/zene-codes/blob/main/assets/chill-image.gif)
 
 </div>
@@ -52,7 +56,8 @@
 <!-- Footer Wave -->
 
 <p align="center">
-  
+
+  <!-wave section-  -->
   <img src="https://raw.githubusercontent.com/D3vil0per/D3vil0per/main/.images/footer.svg" width="100%">
 
 <!-- pac man picture -->
